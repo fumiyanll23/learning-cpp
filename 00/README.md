@@ -101,15 +101,11 @@
 
 [こちら](https://atcoder.jp/) にて右上の **新規登録** へ進む．
 
-### AtCoderで強くなるために - To Aim for the Stars in AtCoder
+### AtCoderで強くなるために - To Become a High Ranker in AtCoder
 
 以下の記事を参照せよ：
 
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3)
-
-特に，C++ (3系) での解法は以下の記事が参考になるだろう：
-
-- [AtCoder に登録したら解くべき精選過去問 10 問をC++3で解いてみた](https://qiita.com/edad811/items/f72acb09f06e5fb35e4e)
 
 次のサイトは過去問をローラーするのに非常に役立つ；
 
