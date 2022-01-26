@@ -167,7 +167,7 @@
 - **プッシュ** (push)：**ローカルリポジトリ** から *リモートリポジトリ* へ変更を追加すること．
 
 以下の図を参照せよ：
-![Gitを用いたバージョン管理]()
+![Gitを用いたバージョン管理](https://github.com/fumiyanll23/cpp-learning/blob/main/00/img/git.png?raw=true)
 
 一連の操作は以下のコマンドで実行できる：
 
