@@ -71,7 +71,7 @@
 ### AtCoderとは - What Is the AtCoder?
 
 > AtCoderは、オンラインで参加できるプログラミングコンテスト(競技プログラミング)のサイトです。
->リアルタイムのコンテストで競い合ったり、約3000問のコンテストの過去問にいつでも挑戦することが出来ます。
+>リアルタイムのオンラインコンテストで競い合うことや、3,000以上の過去問にいつでもチャレンジすることができます。
 
 (出典：[AtCoder](https://atcoder.jp/))
 
@@ -108,7 +108,7 @@
 
 ### Gitのインストール - Install the Git
 
-- for [Windows](https://git-scm.com/download/win) users
+- [for Windows users](https://git-scm.com/download/win)
 
 ### Gitの設定 - Configure the Git
 
