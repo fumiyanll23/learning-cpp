@@ -5,7 +5,7 @@
 ## 今回やること - Contents
 
 - C++
-- Visual Studio Code (VSCode)
+- paiza.io
 - AtCoder
 - GitとGitHub
 - Homework
@@ -27,19 +27,7 @@
   しかしながら，**実行速度が遅くなる** という欠点がある．
   C++は前者のコンパイラ型言語に該当する．
 
-### C++のインストール - Install the C++
-
-- for Windows users
-
-  (何か書け。書くんだジョー!!!)
-
-### C++コンパイラのインストール - Install a C++ Compiler
-
-- for Windows users
-
-  (何か書け。書くんだジョー!!!)
-
-## Visual Studio Code (VSCode)
+## paiza.io
 
 ### エディタとは - What Is an Editor?
 
@@ -49,37 +37,13 @@
 
 注) **統合開発環境** (IDE: integrated development environment) とは異なる．例えば，Visual Studio Codeはエディタだが，Visual Studioは統合開発環境である．
 
-### VSCodeのインストール - Install the VSCode
+### paiza.ioとは - What Is the paiza.io?
 
-[こちら](https://code.visualstudio.com/download) からそれぞれインストーラをダウンロードし，実行する．
-インストール後，ホームディレクトリ上でVSCodeを立ち上げる：
+  (何か書け。書くんだジョー!!!)
 
-```powershell
-> cd ~
-> code .
-```
+### paiza.ioの設定 - Configure the paiza.io
 
-### 拡張機能の設定 [Part 1] - Configure Extensions [Part 1]
-
-以下の拡張機能をインストールする：
-
-- VSCode全般
-
-  - [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.bracket-lens)
-
-  - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
-  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-
-  - [EvilInspector](https://marketplace.visualstudio.com/items?itemName=saikou9901.evilinspector)
-
-- C++関連
-
-  - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-
-### Settings.json [Part 1]
-
-[こちら](https://github.com/fumiyanll23/cpp-learning/blob/main/00/src/settings.json) をコピーしてVSCode内の `settings.json` に上書きする．
+  (何か書け。書くんだジョー!!!)
 
 ## AtCoder
 
@@ -107,8 +71,10 @@
 
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3)
 
-次のサイトは過去問をローラーするのに非常に役立つ；
+また、以下のサイトではAtCoderのコンテストに向けて練習ができる：
 
+- [競プロ典型90問](https://atcoder.jp/contests/typical90)
+- [AtCoder Beginners Selection](https://atcoder.jp/contests/abs)
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)
 
 ## GitとGitHub
@@ -140,20 +106,6 @@
 ```powershell & zsh
 > git config -l
 ```
-
-### 拡張機能の設定 [Part 2] - Configure Extensions [Part 2]
-
-以下の拡張機能を追加でインストールする：
-
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-
-- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-
-- [GitLnes](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
-### Settings.json [Part 2]
-
-[こちら](https://github.com/fumiyanll23/cpp-learning/blob/main/00/src/settings_git.json) をコピーしてVSCode内の `settings.json` に追記する．
 
 ### GitHubとは - What Is the GitHub?
 
