@@ -17,7 +17,9 @@
 
 - 歴史
 
-  (何か書け。書くんだジョー!!!)
+  > C++は、1983年にAT&Tベル研究所の計算機科学者ビャーネ・ストロヴストルップによって公開された。また様々なプラットフォームでその開発環境が導入された。1998年からISOとIECの共同で言語仕様とテンプレートライブラリの標準化が行われるようになり、その後2003年、2011年、2014年、2017年、2020年に標準規格が改訂されている。2021年時点での最新規格は「ISO/IEC 14882:2020」通称「C++20」である。
+
+  (出典：[Wikipedia](https://ja.wikipedia.org/wiki/C%2B%2B))
 
 - プログラミング言語の分類
 
@@ -39,11 +41,23 @@
 
 ### paiza.ioとは - What Is the paiza.io?
 
-  (何か書け。書くんだジョー!!!)
+> paiza.IOは、ブラウザ上でコードを書け、書いたコードをその場で実行できるオンラインのプログラム実行環境です。
+
+(出典：[paiza.io](https://paiza.io/ja))
 
 ### paiza.ioの設定 - Configure the paiza.io
 
-  (何か書け。書くんだジョー!!!)
+1. [paiza.io](https://paiza.io/ja) にアクセスする．
+
+2. 「エディタの設定」を開き，各項目を以下の通りに設定する：
+
+    - Theme：自分の好きなテーマに変更する。著者は``Monokai''を使用している
+    - FontSize：16px
+    - Keymap：normal
+    - Tab width：4
+    - Auto completion：On
+    - Show gutter：On
+    - Show invisibles：On
 
 ## AtCoder
 
@@ -56,8 +70,8 @@
 
 ### AtCoderとは - What Is the AtCoder?
 
-> AtCoderは、世界最高峰の競技プログラミングサイトです。
-> リアルタイムのオンラインコンテストで競い合うことや、3,000以上の過去問にいつでもチャレンジすることができます。
+> AtCoderは、オンラインで参加できるプログラミングコンテスト(競技プログラミング)のサイトです。
+>リアルタイムのコンテストで競い合ったり、約3000問のコンテストの過去問にいつでも挑戦することが出来ます。
 
 (出典：[AtCoder](https://atcoder.jp/))
 
@@ -65,17 +79,20 @@
 
 [こちら](https://atcoder.jp/) にて右上の **新規登録** へ進む．
 
-### AtCoderで強くなるために - To Become a High Ranker in AtCoder
+### (オマケ) AtCoderで強くなるために - (Appendix) To Become a High Ranker in AtCoder
 
 以下の記事を参照せよ：
 
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3)
 
-また、以下のサイトではAtCoderのコンテストに向けて練習ができる：
+また，以下のサイトではAtCoderのコンテストに向けて練習ができる：
 
-- [競プロ典型90問](https://atcoder.jp/contests/typical90)
-- [AtCoder Beginners Selection](https://atcoder.jp/contests/abs)
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)
+  - AtCoderの過去問のほとんどが掲載されている．公式コンテストのみならず有志コンテストで出題された問題もまとめられている
+- [AtCoder Beginners Selection](https://atcoder.jp/contests/abs)
+  - AtCoderを始めたばかりの人がまず解いておきたい過去問を10問だけ選んでまとめられている．まずは，これらの問題を解けるようになることを目指しましょう
+- [競プロ典型90問](https://atcoder.jp/contests/typical90)
+  - AtCoderのみならず，競技プログラミング全般における典型を90問で学ぶことができる．作成者は現役の大学生 (ただし，赤コーダー) であり，初心者向けコンテンツとしては最も新しい......はず (2021/01/29現在)
 
 ## GitとGitHub
 
@@ -119,8 +136,6 @@
 
 [こちら](https://github.com) にて右上の **Sign up** へ進む．
 
-アカウントを作成し終えたら，早速GitHubアカウントでVSCodeにサインインしてみましょう!
-
 ### リポジトリとクローン - Repositories and Clone
 
 - **リポジトリ** (repository) ：過去の状態や更新情報などが記録されている "貯蔵庫"．
@@ -151,7 +166,7 @@
 
 - **プッシュ** (push)：**ローカルリポジトリ** から *リモートリポジトリ* へ変更を追加すること．
 
-実は，一連の操作は以下のコマンドでも実行できる：
+一連の操作は以下のコマンドで実行できる：
 
 ```powershell & zsh
 > git pull <REMOTE NAME> <BRANCH NAME>
