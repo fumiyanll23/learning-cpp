@@ -8,8 +8,9 @@
 - paiza.io
 - AtCoder
 - GitとGitHub
-- Homework
+- 練習問題
 - この回の参考文献
+- 今後の進め方
 
 ## C++
 
@@ -51,7 +52,7 @@
 
 2. 「エディタの設定」を開き，各項目を以下の通りに設定する：
 
-    - Theme：自分の好きなテーマに変更する。著者は``Monokai''を使用している
+    - Theme：自分の好きなテーマに変更する．著者は``Monokai''を使用している
     - FontSize：16px
     - Keymap：normal
     - Tab width：4
@@ -178,9 +179,9 @@
 > git push <REMOTE NAME> <BRANCH NAME>
 ```
 
-## Homework
+## 練習問題
 
-[こちら](https://github.com/fumiyanll23/cpp-learning/blob/main/00/homework_00.md) に書いてある宿題をやってみましょう!
+[こちら](https://github.com/fumiyanll23/cpp-learning/blob/main/00/exercise_00.md) に書いてある練習問題をやってみましょう!
 
 ## この回の参考文献
 
@@ -189,3 +190,8 @@
   - 改訂2版が2021/05/13に出版された
 
 - [Git公式ドキュメント (日本語版)](https://git-scm.com/book/ja/v2)
+
+## 今後の進め方
+
+- [トップページ](https://github.com/fumiyanll23/cpp-learning) に記載がある通り，[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) 沿って勉強会を進めていく
+- いつまでに，どこまで進めるのかを決めたい!
