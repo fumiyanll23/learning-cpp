@@ -1,4 +1,4 @@
-# Homework #00
+# Exercise #00
 
 `cpp-learning` リポジトリに対して，以下の操作を行いなさい．
 
