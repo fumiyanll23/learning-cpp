@@ -6,11 +6,11 @@
 
 - C++
 - paiza.io
+- 今後の進め方
 - AtCoder
 - GitとGitHub
 - 練習問題
 - この回の参考文献
-- 今後の進め方
 
 ## C++
 
@@ -59,6 +59,11 @@
     - Auto completion：On
     - Show gutter：On
     - Show invisibles：On
+
+## 今後の進め方
+
+- [トップページ](https://github.com/fumiyanll23/cpp-learning) に記載がある通り，[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) 沿って勉強会を進めていく
+- いつまでに，どこまで進めるのかを決めたい!
 
 ## AtCoder
 
@@ -190,8 +195,3 @@
   - 改訂2版が2021/05/13に出版された
 
 - [Git公式ドキュメント (日本語版)](https://git-scm.com/book/ja/v2)
-
-## 今後の進め方
-
-- [トップページ](https://github.com/fumiyanll23/cpp-learning) に記載がある通り，[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) 沿って勉強会を進めていく
-- いつまでに，どこまで進めるのかを決めたい!
