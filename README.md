@@ -12,7 +12,7 @@
 |[#05](https://github.com/fumiyanll23/cpp-learning/tree/main/05)|2022/04/02(Sat.)</br>18:00-20:00|オンライン|「K - 1.10.while文」～|実施済|
 |[#06](https://github.com/fumiyanll23/cpp-learning/tree/main/06)|2022/04/03(San.)</br>12:00-14:00|オンライン|「L - 1.11.for文・break・continue」～|実施済|
 |[#07](https://github.com/fumiyanll23/cpp-learning/tree/main/07)|2022/04/16(Sat.)</br>11:00-13:00|オンライン|「M - 1.12.文字列と文字」～|実施済|
-|[#08](https://github.com/fumiyanll23/cpp-learning/tree/main/08)|2022/04/17(San.)</br>11:00-13:00|オンライン|「N - 1.13.配列」～|実施予定|
+|[#08](https://github.com/fumiyanll23/cpp-learning/tree/main/08)|2022/04/23(Sat.)</br>14:00-16:00|オンライン|「N - 1.13.配列」～|実施予定|
 
 ## 使用する教材 - Textbook
 
