@@ -16,7 +16,7 @@
 |[#09](https://github.com/fumiyanll23/cpp-learning/tree/main/09)|2022/04/24(San.)</br>14:00-16:00|オンライン|「P - 1.15.関数」～|実施済|
 |[#10](https://github.com/fumiyanll23/cpp-learning/tree/main/10)|2022/05/14(Sat.)</br>14:00-16:00|オンライン|「R - 2.01.ループの書き方と範囲for文」～|実施済|
 |[#11](https://github.com/fumiyanll23/cpp-learning/tree/main/11)|2022/05/22(San.)</br>15:00-17:00|オンライン|「S - 2.02.多重ループ」～|実施済|
-|[#12](https://github.com/fumiyanll23/cpp-learning/tree/main/12)|2022/05/2?(Sa?.)</br>??:??-??:??|オンライン|「T - 2.03.多次元配列」～|実施予定|
+|[#12](https://github.com/fumiyanll23/cpp-learning/tree/main/12)|2022/05/28(Sat.)</br>11:00-13:00|オンライン|「T - 2.03.多次元配列」～|実施予定|
 
 ## 使用する教材 - Textbook
 
