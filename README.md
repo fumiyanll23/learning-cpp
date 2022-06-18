@@ -19,7 +19,7 @@
 |[#12](https://github.com/fumiyanll23/cpp-learning/tree/main/12)|2022/05/28(Sat.)</br>11:00-13:00|オンライン|「T - 2.03.多次元配列」～|実施済|
 |[#13](https://github.com/fumiyanll23/cpp-learning/tree/main/13)|2022/06/05(San.)</br>14:00-16:00|オンライン|「U - 2.04.参照」～|実施済|
 |[#14](https://github.com/fumiyanll23/cpp-learning/tree/main/14)|2022/06/11(Sat.)</br>12:00-14:00|オンライン|「V - 2.05.再帰関数」～|実施済|
-|[#15](https://github.com/fumiyanll23/cpp-learning/tree/main/15)|2022/06/18(Sat.)</br>14:00-16:00|オンライン|「V - 2.05.再帰関数」～|実施予定|
+|[#15](https://github.com/fumiyanll23/cpp-learning/tree/main/15)|2022/06/19(San.)</br>12:00-14:00|オンライン|「V - 2.05.再帰関数」～|実施予定|
 
 ## 使用する教材 - Textbook
 
