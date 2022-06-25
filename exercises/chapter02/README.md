@@ -103,7 +103,7 @@ $F_{10} = F_{9} + F_{8} = (F_{8} + F_{7}) + (F_{7} + F_{6}) = \cdots = 55$ な�
 
 であるとき，実装した関数 `fibonacci()` では画像のように `TLE` (実行時間制限超過) となってしまうことがある：
 
-![n = 100のときの実行結果]()
+![n = 100のときの実行結果](https://raw.githubusercontent.com/fumiyanll23/cpp-learning/main/exercises/chapter02/fibonacci_100.png)
 
 この理由を「(時間) 計算量」という語を用いて説明せよ．
 
