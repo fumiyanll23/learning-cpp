@@ -23,6 +23,7 @@
 |[#16](https://github.com/fumiyanll23/cpp-learning/tree/main/16)|2022/06/25(Sat.)</br>12:00-14:00|オンライン|「EX20 - 報告書の枚数」～|実施済|
 |[#17](https://github.com/fumiyanll23/cpp-learning/tree/main/17)|2022/07/03(San.)</br>13:00-15:00|オンライン|第2章確認テスト，「Y - 3.01.数値型」～|実施済|
 |[#18](https://github.com/fumiyanll23/cpp-learning/tree/main/18)|2022/07/10(San.)</br>13:00-15:00|オンライン|「Z - 3.02.pair／tupleとauto」～|実施済|
+|[#19](https://github.com/fumiyanll23/cpp-learning/tree/main/19)|2022/07/23(Sat.)</br>13:00-15:00|オンライン|「AA - 3.03.STLのコンテナ」～|実施予定|
 
 ## 使用する教材 - Textbook
 
