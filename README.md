@@ -25,6 +25,7 @@
 |[#18](https://github.com/fumiyanll23/cpp-learning/tree/main/18)|2022/07/10(San.)</br>13:00-15:00|オンライン|「Z - 3.02.pair／tupleとauto」～|実施済|
 |[#19](https://github.com/fumiyanll23/cpp-learning/tree/main/19)|2022/07/23(Sat.)</br>13:00-15:00|オンライン|「AA - 3.03.STLのコンテナ」～|実施済|
 |[#20](https://github.com/fumiyanll23/cpp-learning/tree/main/20)|2022/08/07(San.)</br>11:00-13:00|オンライン|「AB - 3.04.構造体」～|実施済|
+|[#21](https://github.com/fumiyanll23/cpp-learning/tree/main/21)|2022/08/21(San.)</br>14:00-16:00|オンライン|「AC - 3.05.ビット演算」～|実施予定|
 
 ## 使用する教材 - Textbook
 
