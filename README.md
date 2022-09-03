@@ -26,6 +26,7 @@
 |[#19](https://github.com/fumiyanll23/cpp-learning/tree/main/19)|2022/07/23(Sat.)</br>13:00-15:00|オンライン|「AA - 3.03.STLのコンテナ」～|実施済|
 |[#20](https://github.com/fumiyanll23/cpp-learning/tree/main/20)|2022/08/07(San.)</br>11:00-13:00|オンライン|「AB - 3.04.構造体」～|実施済|
 |[#21](https://github.com/fumiyanll23/cpp-learning/tree/main/21)|2022/09/03(Sat.)</br>16:00-18:00|オンライン|「AC - 3.05.ビット演算」～|実施済|
+|[#22](https://github.com/fumiyanll23/cpp-learning/tree/main/22)|2022/09/10(Sat.)</br>13:00-15:00|オンライン|第3章確認テスト|実施予定|
 
 ## 使用する教材 - Textbook
 
