@@ -19,7 +19,6 @@ int main() {
     else if ((i+1) % 5 == 0) {
       cout << "Buzz" << endl;
     }
-
     else {
       cout << i + 1 << endl;
     }
