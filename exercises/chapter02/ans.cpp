@@ -17,8 +17,8 @@ int fibonacci(int n) {
   }
 }
 
-// これ以降の行は変更しなくてよい
 
+// これ以降の行は変更しなくてよい
 int main() {
   int n;
   cin >> n;
